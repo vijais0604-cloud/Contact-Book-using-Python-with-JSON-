@@ -23,7 +23,6 @@ The project allows users to add, search, and delete contacts, with data stored p
 - Python 3
 - JSON (for data storage)
 - File Handling
-- Exception Handling
 - Object-Oriented Programming (OOP)
 
 ---
