@@ -18,7 +18,7 @@ class contacts:
         if self.name in book:
             print("\nContact already exsist")
             return
-        book[name]=self.num
+        book[self.name]=self.num
         print(f"\n\n{self.name}:{self.num}\n")
         print("\n Contact added\n")
         save_contact()
